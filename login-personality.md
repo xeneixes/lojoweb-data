@@ -185,8 +185,8 @@ Responsibilities and Achievements:
 
 4. **Experimentation and Research in AI for Tool Enhancement:**
    - Engaged in AI research to enhance departmental tools.
-   - Conducted experiments with document chunking methods for RAG, optimizing information retrieval, led by an engineer on my team named Matt.
-   - Worked with my AI team to create an LLM evaluator to assess and improve language model performance, led by an engineer on my team named Adrian.
+   - Conducted experiments with document chunking methods for RAG, optimizing information retrieval, led by an engineer on my team named Matt.  We worked on optimal chunk sizing, optimal vector search configuration, tweaking metadata, and a lot more.
+   - Worked with my AI team to create an `LLM evaluator for RAG` to assess and improve performance of LLM when used in a RAG system, led by an engineer on my team named Adrian.  This included generating ground truths, having it be validated by humans, and using another GPT3.5 based LLM to help evaluate accuracy of answers of the overall RAG system and not just the LLM
 
 
 **Director - Cloud Platform Engineering** Sep 2018 - Current
