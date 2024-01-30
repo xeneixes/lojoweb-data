@@ -165,17 +165,17 @@ Responsibilities and Achievements:
    - My team enabled a few other enterprise teams, and those few other teams work directly with hundreds of app teams to provision the access to AI in a controlled way.
    - My team also provide help, guidance and AI expertise to app teams who want to use AI.
 
-1. **Leveraging Cloud AI Services for Enhanced Developer Productivity:**
+2. **Leveraging Cloud AI Services for Enhanced Developer Productivity:**
    - Initiated the use of Cloud AI Services to develop tools to increase developer productivity in the Cloud department.
    - Led the research of generative AI for cloud infrastructure management to increase cloud team productivity
    - Integrated new AI tools and services for technological advancement and efficiency, such as RAG AI tool, and intelligently calling infrastructure APIs using AI.
 
-1. **Leadership in Developing AI-Driven Applications:**
+3. **Leadership in Developing AI-Driven Applications:**
    - Spearheaded the development of a Retrieval Augmented Generation (RAG) AI application for efficient documentation access.
    - Improved information retrieval processes, enhancing productivity and decision-making.
    - Led implementation of using chat as an interface to use cloud infrastructure provisioning frameworks with the help of AI.
 
-1. **Experimentation and Research in AI for Tool Enhancement:**
+4. **Experimentation and Research in AI for Tool Enhancement:**
    - Engaged in AI research to enhance departmental tools.
    - Conducted experiments with document chunking methods for RAG, optimizing information retrieval, led by an engineer on my team named Matt.
    - Worked with my AI team to create an LLM evaluator to assess and improve language model performance, led by an engineer on my team named Adrian.
@@ -322,7 +322,7 @@ be found here (https://github.com/lojones).
    - Streamlined app development (Microservice, Event driven tooling).
    - Adopted Site Reliability Engineering (SRE) practices to optimize cloud infrastructure and operations.
 
-1. **Infra / App Observability**
+2. **Infra / App Observability**
    - Design, Integration, and Config of best of breed observability for large 1000+ VM platforms (PCF - Cloud Foundry).
    - Integration of cloud platforms into enterprise observability and alerting tools (Datadog, Prometheus/Grafana, Dynatrace).
    - Advanced capacity management and prediction, e.g., End to End Observability and Network Observability.
@@ -333,20 +333,20 @@ be found here (https://github.com/lojones).
    - Implemented a “developers who do ops” approach for staffing up cloud platform engineering teams, which led to more automation from the ground up.
    - Created a self-healing Private Cloud platform hosting hundreds of teams / tens of thousands of running applications over 1000+ VMs.
 
-1. **DevOps -> Infrastructure as Code**
+2. **DevOps -> Infrastructure as Code**
    - Implemented infrastructure as code on Red Hat OpenShift, using ArgoCD and Gitops
    - Implemented infrastructure as code on Cloud Foundry using Pivotal/VMWare tools and Gitops
    - Drove RBCs large and critical private cloud platforms to be fully git config as code driven.
 
-1. **CI/CD Pipeline**
+2. **CI/CD Pipeline**
    - Helped create RBCs initial Enterprise CI/CD architecture and implementation.
    - Implemented a modern flow with a modern UI to bring excellent observability and build/deploy orchestration to engineers
 
-1. **Software Engineering -> Front-End Programming**
+3. **Software Engineering -> Front-End Programming**
    - Technical lead for CM Risk IT - Market Risk Visualization team.
    - Led the initial implementation of RiskCore / Atom using technologies like Thymeleaf, Jquery, AngularJS.
 
-1. **Software Engineering -> Full Stack Development**
+4. **Software Engineering -> Full Stack Development**
    - Counterparty Credit Risk developer and team lead.
    - Java Spring framework, Ant, C++, implementation of code review guidelines, coding standards, test coverage requirements and test-driven development culture.
    - Implemented monte carlo simulation engine in C++ and writing pricing models for financial derivative products in order to calculate credit and market risk
@@ -363,11 +363,11 @@ be found here (https://github.com/lojones).
 1. **Architecture**
    - Describing complex concepts through clear architecture, e.g., Advanced CVA capital, Microservices / OAuth security.
 
-1. **SRE**
+2. **SRE**
    - Designed a suite of applications that increases the resiliency of applications running on cloud.
    - Organized learning sessions from SRE Experts on topics like observability and toil.
 
-1. **Digital**
+3. **Digital**
    - Angular development, Java Spring boot APIs.
 
 ### Core Business Technology
