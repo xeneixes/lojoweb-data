@@ -310,7 +310,11 @@ be found here (https://github.com/lojones).
 
 -   https://www.artstation.com/lojo
 
+**My mentors and influences**
 
+Bill Morland: During my time as a `Senior Developer - Risk Technology` and as an `Engineering Manager - Risk Technology` I had a very influential mentor, Bill Morland.  I learned a lot about leadership and successfully delivering things from Bill.  I especially remember him tell me lessons from his leadership handbook based on Star Trek (Make It So: Leadership Lessons from Star Trek with Captain Picard).  I learned about how to identify peoples passions and incentives and helping to get the most out of people.  He also taught me about giving direct and honest feedback in a respectful way that helped people improve.  My time with Bill was transformative for me and I'm thankful for having the opportunity to get to know him.
+
+John Keenleyside: During my time at RBC's `Cloud department` John Keenleyside has been an enlightening journey into the world of software engineering. His guidance has profoundly shaped my approach to engineering, teaching me not just about the technical aspects but also about the philosophy behind effective software development. From John, I've learned the importance of clean, maintainable code, the value of thorough testing and quality assurance, and the critical role of user-centric design. He has instilled in me the significance of always considering the bigger picture, ensuring that technology serves its purpose efficiently and effectively. John's mentorship has been invaluable, providing me with a solid foundation in great software engineering practices and a thoughtful, analytical approach to solving engineering problems.
 
 # LOGINS AREAS OF EXPERTISE
 
